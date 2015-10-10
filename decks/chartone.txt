@@ -1,0 +1,5 @@
+Text 1	Text 2	Text 3	Sound 3	Category 1
+我|wǒ|	我|je, moi	wǒ|▸ 我 [wǒ] je, moi	21082882c82638d29ea11052d4b709fa.m4a	1
+你|nǐ|	你|tu, toi	nǐ|▸ 你 [nǐ] tu, toi	bb8ed0ba847988a18752262f61e13223.m4a	2
+好|hǎo|	好|bien, bon	hǎo|▸ 好 [hǎo] bien, bon	b604a1c4c8db1a5ccf7c0e3a5df79c2e.m4a	3
+叫|jiào|	叫|s'appeler	jiào|▸ 叫 [jiào] s'appeler	ea5a1b74a047bfbb5cd63ca59fb4f38b.m4a	4
