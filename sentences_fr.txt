@@ -1,1 +1,4 @@
-你好，我叫刘婧娇。	Bonjour à tous, je m'appelle Liú Jìngjiāo.
+你好，我叫刘婧娇。	Bonjour [à toi], je m'appelle Liú Jìngjiāo.
+大家好，我是刘婧娇。	Bonjour tout le monde, je suis Liú Jìngjiāo.
+谢谢你。	Merci [à toi].
+我家不大。	Ma maison n'est pas grande.
