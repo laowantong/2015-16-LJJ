@@ -1,9 +1,12 @@
 Text 1	Text 2	Text 3	Sound 3	Category 1
 是|shì|	是|être (mais pas pour l'épithète)	shì|▸ 是 [shì] être (mais pas pour l'épithète)	e288708e499822673cf31e563c202b9a.m4a	1
 不|bù|	不|(négation)	bù|▸ 不 [bù] (négation)	b2f7d59de8478eb3554beccc8f2d3f81.m4a	2
-我|wǒ|	我|je, moi	wǒ|▸ 我 [wǒ] je, moi	21082882c82638d29ea11052d4b709fa.m4a	3
-大|dà|	大|grand, (clé 37)	dà|▸ 大 [dà] grand, (clé 37)	fa83b69820de4051929f48017f25274b.m4a	4
-家|jiā|	家|maison	jiā|▸ 家 [jiā] maison	fd70348f5363ee5bb722bb501855e2e4.m4a	5
-你|nǐ|	你|tu, toi	nǐ|▸ 你 [nǐ] tu, toi	bb8ed0ba847988a18752262f61e13223.m4a	6
-好|hǎo|	好|(être) bien, bon, d'accord	hǎo|▸ 好 [hǎo] (être) bien, bon, d'accord	b604a1c4c8db1a5ccf7c0e3a5df79c2e.m4a	7
-叫|jiào|	叫|s'appeler	jiào|▸ 叫 [jiào] s'appeler	ea5a1b74a047bfbb5cd63ca59fb4f38b.m4a	8
+人|rén|	人|une personne	rén|▸ 人 [rén] une personne	9ed510416a5d2db2c34048455ac162f8.m4a	3
+我|wǒ|	我|je, moi	wǒ|▸ 我 [wǒ] je, moi	21082882c82638d29ea11052d4b709fa.m4a	4
+大|dà|	大|grand, (clé 37)	dà|▸ 大 [dà] grand, (clé 37)	fa83b69820de4051929f48017f25274b.m4a	5
+家|jiā|	家|maison	jiā|▸ 家 [jiā] maison	fd70348f5363ee5bb722bb501855e2e4.m4a	6
+你|nǐ|	你|tu, toi	nǐ|▸ 你 [nǐ] tu, toi	bb8ed0ba847988a18752262f61e13223.m4a	7
+好|hǎo|	好|(être) bien, bon, d'accord	hǎo|▸ 好 [hǎo] (être) bien, bon, d'accord	b604a1c4c8db1a5ccf7c0e3a5df79c2e.m4a	8
+见|jiàn|	见|voir	jiàn|▸ 见 [jiàn] voir	d375f8503f7577f7a940fa3ecba0ce30.m4a	9
+再|zài|	再|encore (dans l'avenir)	zài|▸ 再 [zài] encore (dans l'avenir)	417dcf99eb00088566f3fc39c5da1019.m4a	10
+叫|jiào|	叫|s'appeler	jiào|▸ 叫 [jiào] s'appeler	ea5a1b74a047bfbb5cd63ca59fb4f38b.m4a	11
