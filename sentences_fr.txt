@@ -2,7 +2,6 @@
 大家好，我是刘婧娇。	Bonjour tout le monde, je suis Liú Jìngjiāo.
 谢谢你。	Merci [à toi].
 我家不大。	Ma maison n'est pas grande.
-棒极了！	Génial!
 请问，你叫什么名字？	S'il te plaît (litt. puis-je te demander?), tu t'appelles comment? [forme complète]
 你叫什么？	Tu t'appelles comment? [forme abrégée]
 请问，你家在哪里？	Dis-moi, où est ta maison?
@@ -11,4 +10,7 @@
 你是谁？	Qui es-tu?
 请坐。	Assieds-toi (poli).
 你在家请谁？	Qui invites-tu à la maison?
-“五”不是“我”。	« wǔ » n'est pas « wǒ ».
+“五”不是“我”。	« [5] » n'est pas « [je] ».
+二零一五年	2015 (année)
+二零一五年十月十九日	19 octobre 2015
+滚！	Casse-toi!
