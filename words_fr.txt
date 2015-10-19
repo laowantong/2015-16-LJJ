@@ -11,7 +11,34 @@
 不好	bùhǎo|(être) mauvais, pas d'accord
 大家好	dàjiā hǎo|bonjour tout le monde & bonjour & 大家好，我是刘婧娇。
 谢谢	xièxiè|merci & 谢谢你。
-是	shì|être (mais pas pour l'épithète) & 大家好，我是刘婧娇。
+是	shì|être (mais pas pour l'épithète, proche du signe =) & 大家好，我是刘婧娇。
 再	zài|encore (dans l'avenir)
 见	jiàn|voir
 再见	zàijiàn|au revoir
+精彩	jīngcǎi|génial (livre, film, spectacle, etc.)
+棒	bàng|formidable (langue parlée); bâton, barre & 棒极了！
+极	jí|extrémité (en composé) & 棒极了！
+对不起	duìbuqǐ(1)|excusez-moi (pour demander qqch) & s'il vous plaît
+对不起	duìbuqǐ(0)|je suis désolé & excusez-moi
+对	duì(0)|juste, exact
+对	duì(1)|en face (en composition)
+请	qǐng(0)|inviter qqn à faire qqch, pourriez-vous..., pourrais-je... & 请坐。
+请	qǐng(1)|inviter qqn & 你在家请谁？
+请问	qǐngwèn|puis-je vous demander? & s'il vous plaît & 请问，你叫什么名字？
+名字	míngzi|nom & 请问，你叫什么名字？
+哪里	nǎlǐ|où? & où? & 请问，你家在哪里？
+问	wèn|demander, interroger & interroger & 请问，你家在哪里？
+在	zài|à, en, se trouver à & locatif & 请问，你家在哪里？
+里	lǐ|dans, à l'intérieur [en suffixe] & locatif & 我在家里。
+谁	shuí|qui? & 你是谁？
+零	líng|zéro
+一	yī|<pic-hand1.jpg>un, (clé 1)
+二	èr|<pic-hand2.jpg>deux ordinal (clé 7)
+三	sān|<pic-hand3.jpg>
+四	sì|<pic-hand4.jpg>
+五	wǔ|<pic-hand5.jpg>
+六	liù|<pic-hand6.jpg>
+七	qī|<pic-hand7.jpg>
+八	bā|<pic-hand8.jpg>(clé 12)
+九	jiǔ|<pic-hand9.jpg>
+十	shí|<pic-hand10.jpg>(clé 24)
