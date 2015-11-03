@@ -15,14 +15,14 @@
 二零一五年十月十九日	19 octobre 2015
 滚！	Casse-toi!
 你好吗？	Comment ça va?
-你们在家里吗。	Vous [plur.] êtes à la maison?
+你们在家里吗？	Vous [plur.] êtes à la maison?
 我们很好。	Nous allons (très) bien.
 十三	13
 四十四	44
 她二十五岁。	Elle a 25 ans.
 你几岁？	Tu as quel âge? (familier, ou enfant)
 你多大岁数？	Tu as quel âge? (plus formel)
-我的岁数很大。	Mon âge est avancé.
+他们的岁数很大。	Ils sont âgés. (litt. Leur âge est grand [avancé])
 我们是你们的朋友。	Nous sommes vos amis (adressé à plusieurs personnes).
 她们不是朋友。	Elles ne sont pas amies.
 我是你的朋友。	Je suis ton ami(e).
@@ -30,4 +30,5 @@
 我是一个法国学生。	Je suis un(e) étudiant(e) français(e) (litt. de France).
 你是哪国人？	Tu es de quel pays?
 我是德国人。	Je suis allemand.
-糟糕	zāogāo|zut!
+他们在一个法国朋友的家里。	Ils sont chez un ami français (litt. dans la maison d'un ami français).
+我的学生们是德国人。	Mes étudiants sont allemands.
