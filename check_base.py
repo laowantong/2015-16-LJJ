@@ -6,7 +6,7 @@ from collections import defaultdict
 
 def validate_sentences(path):
     lines = open(path, "r", "utf8").read().split("\n")
-    result = set()
+    result = {}
     print path
     for (i, line) in enumerate(lines, 1):
         if not line or line.startswith("//"):
@@ -21,7 +21,9 @@ def validate_sentences(path):
         if not chinese:
             print "No chinese sentence in line %s." % i
             continue
-        result.add(chinese)
+        if chinese in result:
+            print u'Sentence "%s" duplicated in lines %s and %s.' % (chinese, i, result[chinese])
+        result[chinese] = i
         if not translation:
             print "No translation in line %s." % i
             continue
@@ -31,6 +33,7 @@ def validate_sentences(path):
 def validate_words(path, sentences):
     lines = open(path, "r", "utf8").read().split("\n")
     groups = defaultdict(list)
+    words = {}
     print path
     for (i, line) in enumerate(lines, 1):
         if not line or line.startswith("//"):
@@ -58,6 +61,9 @@ def validate_words(path, sentences):
         if not pinyin:
             print "No pinyin in line %s." % i
             continue
+        if (chinese, pinyin) in words:
+            print u'Word "%s" duplicated with pinyin "%s" in lines %s and %s.' % (chinese, pinyin, i, words[(chinese, pinyin)])
+        words[(chinese, pinyin)] = i
         if not stuff.strip():
             print "Nothing after the pinyin in line %s." % i
             continue
