@@ -1,5 +1,5 @@
 你	nǐ|tu, toi & 谢谢你。
-你好	nǐhǎo|bonjour & 你好，我叫刘婧娇。
+你好	nǐhǎo|bonjour & bonjour & 你好，我叫刘婧娇。
 我	wǒ|je, moi & 你好，我叫刘婧娇。
 叫	jiào|s'appeler & 你好，我叫刘婧娇。
 大	dà|grand, (clé 37) & 我家不大。
@@ -17,7 +17,7 @@
 再见	zàijiàn|au revoir & au revoir
 精彩	jīngcǎi|génial (livre, film, spectacle, etc.)
 对不起	duìbuqǐ(1)|excusez-moi (pour demander qqch) & s'il vous plaît
-对不起	duìbuqǐ(0)|je suis désolé & excusez-moi
+对不起	duìbuqǐ(0)|je suis désolé
 对	duì(0)|juste, exact
 对	duì(1)|en face (en composition)
 请	qǐng(0)|inviter qqn à faire qqch, pourriez-vous..., pourrais-je... & s'il vous plaît & 请坐。
@@ -25,8 +25,8 @@
 请问	qǐngwèn|puis-je vous demander? & s'il vous plaît & 请问，你叫什么名字？
 名字	míngzi|nom & 请问，你叫什么名字？
 哪	nǎ|lequel? & 你是哪国人？
-哪里	nǎlǐ|où? & où? & 请问，你家在哪里？
-问	wèn|demander, interroger & interroger & 请问，你家在哪里？
+哪里	nǎlǐ|où? & 请问，你家在哪里？
+问	wèn|demander, interroger & 请问，你家在哪里？
 在	zài|à, en, se trouver à & locatif & 请问，你家在哪里？
 里	lǐ|dans, à l'intérieur [en suffixe] & locatif & 我在家里。
 谁	shuí|qui? & 你是谁？
@@ -90,3 +90,23 @@
 德国人	Déguórén|allemand
 学	xué|étudier, suffixe -ologie
 糟糕	zāogāo|zut! (litt. gâteau pourri)
+中国	zhōngguó|la Chine
+中国人	zhōngguórén|un Chinois
+用	yòng|utiliser
+不用	búyòng|inutile, ne pas utiliser
+十个月	shígèyuè|dix mois
+中文	zhōngwén|la langue chinoise & 我们在大学学中文。
+文	wén|culture,langue & 我们在大学学中文。
+法文	fǎwén|la langue française
+德文	déwén|la langue allemande
+老师	lǎoshī|professeur & 你们是我的德文老师。
+学	xué|apprendre, étudier & 我们在大学学中文。
+大学	dàxué|université & 我们在大学学中文。
+大学生	dàxuéshēng|étudiant(e)
+几个	jǐgè|combien (petit nombre) & 你的家里有几个人？
+于	yú|en (date) & 我出生于一九九五年六月二日。
+同学	tóngxué|camarade de classe & 我们不是同学。
+出生	chūshēng|naître & 我出生于一九九五年六月二日。
+生日	shēngrì|date de naissance & 我的生日是十月九日。
+院	yuàn|cour, institution publique [en composition]
+学院	xuéyuàn|institut (d'études)

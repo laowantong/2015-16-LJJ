@@ -32,3 +32,17 @@
 我是德国人。	Je suis allemand.
 他们在一个法国朋友的家里。	Ils sont chez un ami français (litt. dans la maison d'un ami français).
 我的学生们是德国人。	Mes étudiants sont allemands.
+我有一个家。	J’ai une famille/maison.
+你们是我的学生。	Vous êtes mes étudiants.
+我是你们的中文老师。	Je suis votre professeur de chinois.
+你们是我的德文老师。	Vous êtes mes professeurs d’allemand.
+我们在大学学中文。	Nous apprenons le chinois à l’université.
+我是大学的学生。	Je suis étudiant(e) de l’université.
+你的家里有几个人？	Il y a combien de personnes dans ta famille ?
+法国是中国的朋友。	La France est l’amie de la Chine.
+我的生日是十月九日。	Mon anniversaire est le 9 octobre.
+我出生于一九九五年六月二日。	Je suis né(e) le 2 juin 1995.
+我们不是同学。	Nous ne sommes pas camarades de classe.
+老师好。	Bonjour, professeur.
+不用谢。	De rien.
+闭嘴!	Ta gueule!
