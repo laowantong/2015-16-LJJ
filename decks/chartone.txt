@@ -34,7 +34,7 @@ Text 1	Text 2	Text 3	Sound 3	Category 1
 四|sì|	四|	sì|▸ 四 [sì] 	62d08c707c0569f0482567ffb96a57e5.m4a	33
 很|hěn|	很|très (sens faible, pour qualifier un attribut de façon absolue)	hěn|▸ 很 [hěn] très (sens faible, pour qualifier un attribut de façon absolue)	96f6c836a23ed80e5e7e7774f31a4394.m4a	34
 问|wèn|	问|demander, interroger	wèn|<color gray>▸ 文 [wén] culture,langue</color>|▸ 问 [wèn] demander, interroger	f74b2606794ad78a7558ae7f4a588543.m4a	35
-几|jǐ|	几|combien? (petite quantité)	jǐ|▸ 几 [jǐ] combien? (petite quantité)	190036b16b6d5598d8f8e70524e7c63b.m4a	36
+几|jǐ|combien?	几|combien? (petit nombre)	jǐ|▸ 几 [jǐ] combien? (petit nombre)	190036b16b6d5598d8f8e70524e7c63b.m4a	36
 五|wǔ|	五|	wǔ|▸ 五 [wǔ] 	9ac619487a2e0f2b7739ef9e632a3e5a.m4a	37
 见|jiàn|	见|voir	jiàn|▸ 见 [jiàn] voir	d375f8503f7577f7a940fa3ecba0ce30.m4a	38
 六|liù|	六|	liù|▸ 六 [liù] 	080327981402a9c39ba4f1f86227374b.m4a	39

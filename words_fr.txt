@@ -66,7 +66,7 @@
 他们	tāmen|ils, eux & 3e personne pluriel & 他们在一个法国朋友的家里。
 它们	tāmen|ils, elles (neutre) & 3e personne pluriel
 她们	tāmen|elles & 3e personne pluriel & 她们不是朋友。
-几	jǐ|combien? (petite quantité) & 你几岁？
+几	jǐ|combien? (petit nombre) & combien? & 你几岁？
 多大	dūodà|combien (grand)? (quantité, âge, taille) & 你多大岁数？
 岁数	suìshù|âge & 他们的岁数很大。
 的	de|[particule reliant déterminant et déterminé] & 他们在一个法国朋友的家里。
@@ -102,7 +102,7 @@
 老师	lǎoshī|professeur & 你们是我的德文老师。
 大学	dàxué|université & 我们在大学学中文。
 大学生	dàxuéshēng|étudiant(e)
-几个	jǐgè|combien (petit nombre) & 你的家里有几个人？
+几个	jǐgè|combien (petit nombre) & combien? & 你的家里有几个人？
 于	yú|en (date) & 我出生于一九九五年六月二日。
 同学	tóngxué|camarade de classe & 我们不是同学。
 出生	chūshēng|naître & 我出生于一九九五年六月二日。
