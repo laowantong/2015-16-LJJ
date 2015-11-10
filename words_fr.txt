@@ -88,7 +88,7 @@
 国家	guójiā|pays, nation, état & état
 德国	Déguó|Allemagne & 我是德国人。
 德国人	Déguórén|allemand
-学	xué|étudier, suffixe -ologie
+学	xué|apprendre, étudier, suffixe -ologie & 我们在大学学中文。
 糟糕	zāogāo|zut! (litt. gâteau pourri)
 中国	zhōngguó|la Chine
 中国人	zhōngguórén|un Chinois
@@ -100,7 +100,6 @@
 法文	fǎwén|la langue française
 德文	déwén|la langue allemande
 老师	lǎoshī|professeur & 你们是我的德文老师。
-学	xué|apprendre, étudier & 我们在大学学中文。
 大学	dàxué|université & 我们在大学学中文。
 大学生	dàxuéshēng|étudiant(e)
 几个	jǐgè|combien (petit nombre) & 你的家里有几个人？
