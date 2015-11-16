@@ -4,51 +4,84 @@ Text 1	Text 2	Text 3	Sound 3	Category 1
 是|shì|	是|être (mais pas pour l'épithète, proche du signe « = »)	shì|<color gray>▸ 十 [shí] (clé 24)</color>|▸ 是 [shì] être (mais pas pour l'épithète, proche du signe « = »)	e288708e499822673cf31e563c202b9a.m4a	3
 不|bù|	不|ne pas (être)	bù|▸ 不 [bù] ne pas (être)	b2f7d59de8478eb3554beccc8f2d3f81.m4a	4
 人|rén|	人|une personne	rén|▸ 人 [rén] une personne	9ed510416a5d2db2c34048455ac162f8.m4a	5
-我|wǒ|	我|je, moi	wǒ|▸ 我 [wǒ] je, moi	21082882c82638d29ea11052d4b709fa.m4a	6
-在|zài|locatif	在|à, en, se trouver à	zài|▸ 再 [zài] encore (dans l'avenir)|▸ 在 [zài] à, en, se trouver à	417dcf99eb00088566f3fc39c5da1019.m4a	7
-有|yǒu|	有|avoir	yǒu|▸ 有 [yǒu] avoir	30eccae6db43409f72a2156bbc412a91.m4a	8
-国|guó|état	国|pays	guó|▸ 国 [guó] pays	771d795b5faec63ca2a5011fd2efdfa0.m4a	9
-大|dà|	大|grand, (clé 37)	dà|▸ 大 [dà] grand, (clé 37)	fa83b69820de4051929f48017f25274b.m4a	10
-他|tā|3e personne	他|il, lui	tā|▸ 他 [tā] il, lui|▸ 她 [tā] elle|▸ 它 [tā] il, elle (neutre)	a9d2b00eace06e701519fe9966e7e16d.m4a	11
-个|gè|	个|{spécificatif général}	gè|▸ 个 [gè] {spécificatif général}	387a209deefe48cb3afb68b8414211e3.m4a	12
-们|men|	们|[suffixe du pluriel]	men|▸ 们 [men] [suffixe du pluriel]	d2fc17cc2feffa1de5217a3fd29e91e8.m4a	13
-年|nián|année	年|année	nián|▸ 年 [nián] année	6de71f633e440ac94006e82e8800651c.m4a	14
-学|xué|	学|apprendre, étudier, suffixe -ologie	xué|▸ 学 [xué] apprendre, étudier, suffixe -ologie	bdb99d0c15e0d474bedf39a816aa1a6d.m4a	15
-对|duì|	对|juste, exact	duì|▸ 对 [duì] juste, exact	f95aa7f129e9183211aeb789b1709c56.m4a	16
-对|duì|	对|en face (en composition)	duì|▸ 对 [duì] juste, exact	f95aa7f129e9183211aeb789b1709c56.m4a	17
-文|wén|	文|culture,langue	wén|▸ 文 [wén] culture,langue|<color gray>▸ 问 [wèn] demander, interroger</color>	ee746de1c56ac58057ad4508d39e40ba.m4a	18
-家|jiā|	家|maison	jiā|▸ 家 [jiā] maison	fd70348f5363ee5bb722bb501855e2e4.m4a	19
-十|shí|	十|(clé 24)	shí|▸ 十 [shí] (clé 24)|<color gray>▸ 是 [shì] être (mais pas pour l'épithète, proche du signe « = »)</color>	9fc4642cde210842bd0f308e24448775.m4a	20
-于|yú|	于|en (date)	yú|▸ 于 [yú] en (date)	3c1a51ae3914e799573a222656092adb.m4a	21
-日|rì|	日|jour, soleil, (clé 72)	rì|▸ 日 [rì] jour, soleil, (clé 72)	54b879399b3348ff06c1ed4f87a93b5e.m4a	22
-里|lǐ|locatif	里|dans, à l'intérieur [en suffixe]	lǐ|▸ 里 [lǐ] dans, à l'intérieur [en suffixe]	4178d476cf67f204b9c7ed0aa9697179.m4a	23
-没|méi|ne pas avoir	没|ne pas (avoir)	méi|▸ 没 [méi] ne pas (avoir)	f92b53578d2666e90a0bdab6e6baab9e.m4a	24
-你|nǐ|	你|tu, toi	nǐ|▸ 你 [nǐ] tu, toi	bb8ed0ba847988a18752262f61e13223.m4a	25
-好|hǎo|	好|(être) bien, bon, d'accord	hǎo|▸ 好 [hǎo] (être) bien, bon, d'accord	b604a1c4c8db1a5ccf7c0e3a5df79c2e.m4a	26
-月|yuè|	月|mois, lune	yuè|▸ 月 [yuè] mois, lune	b85ecf97ffae7a75e1e7a954ac6bb0cd.m4a	27
-三|sān|	三|	sān|▸ 三 [sān] 	03c1e916c7d1f386f25b7fb74ceeee23.m4a	28
-二|èr|	二|deux ordinal (clé 7)	èr|▸ 二 [èr] deux ordinal (clé 7)	78cf3bf5a3b50626da14bd52e07b8c5d.m4a	29
-用|yòng|	用|utiliser	yòng|▸ 用 [yòng] utiliser	779c31320c4e9ea04c33d79b6a3e6164.m4a	30
-她|tā|3e personne	她|elle	tā|▸ 他 [tā] il, lui|▸ 她 [tā] elle|▸ 它 [tā] il, elle (neutre)	a9d2b00eace06e701519fe9966e7e16d.m4a	31
-九|jiǔ|	九|	jiǔ|▸ 九 [jiǔ] 	5229c4adb511f5d9283621bbd19233ee.m4a	32
-四|sì|	四|	sì|▸ 四 [sì] 	62d08c707c0569f0482567ffb96a57e5.m4a	33
-很|hěn|	很|très (sens faible, pour qualifier un attribut de façon absolue)	hěn|▸ 很 [hěn] très (sens faible, pour qualifier un attribut de façon absolue)	96f6c836a23ed80e5e7e7774f31a4394.m4a	34
-问|wèn|	问|demander, interroger	wèn|<color gray>▸ 文 [wén] culture,langue</color>|▸ 问 [wèn] demander, interroger	f74b2606794ad78a7558ae7f4a588543.m4a	35
-几|jǐ|combien?	几|combien? (petit nombre)	jǐ|▸ 几 [jǐ] combien? (petit nombre)	190036b16b6d5598d8f8e70524e7c63b.m4a	36
-五|wǔ|	五|	wǔ|▸ 五 [wǔ] 	9ac619487a2e0f2b7739ef9e632a3e5a.m4a	37
-见|jiàn|	见|voir	jiàn|▸ 见 [jiàn] voir	d375f8503f7577f7a940fa3ecba0ce30.m4a	38
-六|liù|	六|	liù|▸ 六 [liù] 	080327981402a9c39ba4f1f86227374b.m4a	39
-八|bā|	八|(clé 12)	bā|▸ 八 [bā] (clé 12)	3b52cd47c585461ebdd3d42342fcd88d.m4a	40
-请|qǐng|s'il vous plaît	请|inviter qqn à faire qqch, pourriez-vous..., pourrais-je...	qǐng|▸ 请 [qǐng] inviter qqn à faire qqch, pourriez-vous..., pourrais-je...	156d855d46d259b07b27e2ede2955c82.m4a	41
-请|qǐng|	请|inviter qqn	qǐng|▸ 请 [qǐng] inviter qqn à faire qqch, pourriez-vous..., pourrais-je...	156d855d46d259b07b27e2ede2955c82.m4a	42
-再|zài|	再|encore (dans l'avenir)	zài|▸ 再 [zài] encore (dans l'avenir)|▸ 在 [zài] à, en, se trouver à	417dcf99eb00088566f3fc39c5da1019.m4a	43
-它|tā|3e personne	它|il, elle (neutre)	tā|▸ 他 [tā] il, lui|▸ 她 [tā] elle|▸ 它 [tā] il, elle (neutre)	a9d2b00eace06e701519fe9966e7e16d.m4a	44
-七|qī|	七|	qī|▸ 七 [qī] 	b39037925ecff0181d5360e1583f745b.m4a	45
-院|yuàn|	院|cour, institution publique [en composition]	yuàn|▸ 院 [yuàn] cour, institution publique [en composition]	6b9e633d5ec46341035ebef4874f9d00.m4a	46
-叫|jiào|	叫|s'appeler	jiào|▸ 叫 [jiào] s'appeler	ea5a1b74a047bfbb5cd63ca59fb4f38b.m4a	47
-吗|ma|	吗|[interrogation]	ma|▸ 吗 [ma] [interrogation]	b74df323e3939b563635a2cba7a7afba.m4a	48
-谁|shuí|	谁|qui?	shuí|▸ 谁 [shuí] qui?	f4683264c09aad89f09c506ed9e61c8a.m4a	49
-岁|suì|année	岁|année (d'âge)	suì|▸ 岁 [suì] année (d'âge)	329293e01a09b3a6a24b1777bc1b6d8a.m4a	50
-哪|nǎ|	哪|lequel?	nǎ|▸ 哪 [nǎ] lequel?	b3d3d7327c53b599d125480874f6373a.m4a	1
-滚|gǔn|	滚|rouler [intransitif]	gǔn|▸ 滚 [gǔn] rouler [intransitif]	8197512e9e8aaecf7c2433aae030279e.m4a	2
-零|líng|	零|zéro	líng|▸ 零 [líng] zéro	4aeb8f9c608a4e526056852208155974.m4a	3
+了|le|	了|(particule de l'accompli)	le|▸ 了 [le] (particule de l'accompli)	d9180594744f870aeefb086982e980bb.m4a	6
+我|wǒ|	我|je, moi	wǒ|▸ 我 [wǒ] je, moi	21082882c82638d29ea11052d4b709fa.m4a	7
+在|zài|locatif	在|à, en, se trouver à	zài|▸ 再 [zài] encore (dans l'avenir)|▸ 在 [zài] à, en, se trouver à	417dcf99eb00088566f3fc39c5da1019.m4a	8
+有|yǒu|	有|avoir	yǒu|▸ 有 [yǒu] avoir	30eccae6db43409f72a2156bbc412a91.m4a	9
+国|guó|état	国|pays	guó|▸ 国 [guó] pays	771d795b5faec63ca2a5011fd2efdfa0.m4a	10
+中|zhōng|	中|milieu, centre, moyen	zhōng|▸ 中 [zhōng] milieu, centre, moyen	0ac2a0b82d5088bfd5e979098d142ecc.m4a	11
+大|dà|	大|grand, (clé 37)	dà|▸ 大 [dà] grand, (clé 37)	fa83b69820de4051929f48017f25274b.m4a	12
+他|tā|3e personne	他|il, lui	tā|▸ 他 [tā] il, lui|▸ 她 [tā] elle|▸ 它 [tā] il, elle (neutre)	a9d2b00eace06e701519fe9966e7e16d.m4a	13
+个|gè|	个|{spécificatif général}	gè|▸ 个 [gè] {spécificatif général}	387a209deefe48cb3afb68b8414211e3.m4a	14
+们|men|	们|[suffixe du pluriel]	men|▸ 们 [men] [suffixe du pluriel]	d2fc17cc2feffa1de5217a3fd29e91e8.m4a	15
+年|nián|année	年|année	nián|▸ 年 [nián] année	6de71f633e440ac94006e82e8800651c.m4a	16
+和|hé|	和|et, avec	hé|▸ 和 [hé] et, avec	33fcd01258e6ba07ef405dc9e721f3a7.m4a	17
+和|hé|	和|somme	hé|▸ 和 [hé] et, avec	33fcd01258e6ba07ef405dc9e721f3a7.m4a	18
+也|yě|	也|aussi (phrase positive)	yě|▸ 也 [yě] aussi (phrase positive)	a88aed83181848a47b15b654dd83679a.m4a	19
+也|yě|	也|non plus (phrase négative)	yě|▸ 也 [yě] aussi (phrase positive)	a88aed83181848a47b15b654dd83679a.m4a	20
+学|xué|	学|apprendre, étudier, suffixe -ologie	xué|▸ 学 [xué] apprendre, étudier, suffixe -ologie	bdb99d0c15e0d474bedf39a816aa1a6d.m4a	21
+对|duì|	对|juste, exact	duì|▸ 对 [duì] juste, exact	f95aa7f129e9183211aeb789b1709c56.m4a	22
+对|duì|	对|en face (en composition)	duì|▸ 对 [duì] juste, exact	f95aa7f129e9183211aeb789b1709c56.m4a	23
+文|wén|	文|culture,langue	wén|▸ 文 [wén] culture,langue|<color gray>▸ 问 [wèn] demander, interroger</color>	ee746de1c56ac58057ad4508d39e40ba.m4a	24
+家|jiā|	家|maison	jiā|▸ 家 [jiā] maison	fd70348f5363ee5bb722bb501855e2e4.m4a	25
+十|shí|	十|(clé 24)	shí|▸ 十 [shí] (clé 24)|<color gray>▸ 是 [shì] être (mais pas pour l'épithète, proche du signe « = »)</color>	9fc4642cde210842bd0f308e24448775.m4a	26
+于|yú|	于|en (date)	yú|▸ 于 [yú] en (date)	3c1a51ae3914e799573a222656092adb.m4a	27
+日|rì|	日|jour, soleil, (clé 72)	rì|▸ 日 [rì] jour, soleil, (clé 72)	54b879399b3348ff06c1ed4f87a93b5e.m4a	28
+里|lǐ|locatif	里|dans, à l'intérieur [en suffixe]	lǐ|▸ 里 [lǐ] dans, à l'intérieur [en suffixe]	4178d476cf67f204b9c7ed0aa9697179.m4a	29
+天|jīntiān|	天|aujourd'hui	jīntiān|▸ 天 [jīntiān] aujourd'hui	ae43a25746570de80711427d8d733a64.m4a	30
+天|míngtiān|	天|demain	míngtiān|▸ 天 [míngtiān] demain	b274ff4796b1db3676ba9c98d03ecd1f.m4a	31
+天|tiān|ciel	天|jour, ciel	tiān|▸ 天 [tiān] jour, ciel	612e3249bae2218bef1090b2d4f74ff6.m4a	32
+没|méi|ne pas avoir	没|ne pas (avoir)	méi|▸ 没 [méi] ne pas (avoir)	f92b53578d2666e90a0bdab6e6baab9e.m4a	33
+你|nǐ|	你|tu, toi	nǐ|▸ 你 [nǐ] tu, toi	bb8ed0ba847988a18752262f61e13223.m4a	34
+作|gōngzuò|	作|travail	gōngzuò|▸ 作 [gōngzuò] travail	24e6b7d3737a962d569854f322ad6f35.m4a	35
+好|hǎo|	好|(être) bien, bon, d'accord	hǎo|▸ 好 [hǎo] (être) bien, bon, d'accord	b604a1c4c8db1a5ccf7c0e3a5df79c2e.m4a	36
+月|yuè|	月|mois, lune	yuè|▸ 月 [yuè] mois, lune	b85ecf97ffae7a75e1e7a954ac6bb0cd.m4a	37
+三|sān|	三|	sān|▸ 三 [sān] 	03c1e916c7d1f386f25b7fb74ceeee23.m4a	38
+二|èr|deux	二|deux (ordinal) (clé 7)	èr|▸ 二 [èr] deux (ordinal) (clé 7)	78cf3bf5a3b50626da14bd52e07b8c5d.m4a	39
+用|yòng|	用|utiliser	yòng|▸ 用 [yòng] utiliser	779c31320c4e9ea04c33d79b6a3e6164.m4a	40
+她|tā|3e personne	她|elle	tā|▸ 他 [tā] il, lui|▸ 她 [tā] elle|▸ 它 [tā] il, elle (neutre)	a9d2b00eace06e701519fe9966e7e16d.m4a	41
+九|jiǔ|	九|	jiǔ|▸ 九 [jiǔ] 	5229c4adb511f5d9283621bbd19233ee.m4a	42
+四|sì|	四|	sì|▸ 四 [sì] 	62d08c707c0569f0482567ffb96a57e5.m4a	43
+很|hěn|	很|très (sens faible, pour qualifier un attribut de façon absolue)	hěn|▸ 很 [hěn] très (sens faible, pour qualifier un attribut de façon absolue)	96f6c836a23ed80e5e7e7774f31a4394.m4a	44
+问|wèn|	问|demander, interroger	wèn|<color gray>▸ 文 [wén] culture,langue</color>|▸ 问 [wèn] demander, interroger	f74b2606794ad78a7558ae7f4a588543.m4a	45
+几|jǐ|combien?	几|combien? (petit nombre)	jǐ|▸ 几 [jǐ] combien? (petit nombre)	190036b16b6d5598d8f8e70524e7c63b.m4a	46
+两|liǎng|deux	两|deux (numéral)	liǎng|▸ 两 [liǎng] deux (numéral)	cc7dcd7fac9fe8053229b1991a80ce5e.m4a	47
+五|wǔ|	五|	wǔ|▸ 五 [wǔ] 	9ac619487a2e0f2b7739ef9e632a3e5a.m4a	48
+见|jiàn|	见|voir	jiàn|▸ 见 [jiàn] voir	d375f8503f7577f7a940fa3ecba0ce30.m4a	49
+六|liù|	六|	liù|▸ 六 [liù] 	080327981402a9c39ba4f1f86227374b.m4a	50
+八|bā|	八|(clé 12)	bā|▸ 八 [bā] (clé 12)	3b52cd47c585461ebdd3d42342fcd88d.m4a	1
+请|qǐng|s'il vous plaît	请|inviter qqn à faire qqch, pourriez-vous..., pourrais-je...	qǐng|▸ 请 [qǐng] inviter qqn à faire qqch, pourriez-vous..., pourrais-je...	156d855d46d259b07b27e2ede2955c82.m4a	2
+请|qǐng|	请|inviter qqn	qǐng|▸ 请 [qǐng] inviter qqn à faire qqch, pourriez-vous..., pourrais-je...	156d855d46d259b07b27e2ede2955c82.m4a	3
+再|zài|	再|encore (dans l'avenir)	zài|▸ 再 [zài] encore (dans l'avenir)|▸ 在 [zài] à, en, se trouver à	417dcf99eb00088566f3fc39c5da1019.m4a	4
+百|bǎi|cent	百|cent	bǎi|▸ 百 [bǎi] cent	a45f3840e4543e0959442a3e8556e2e1.m4a	5
+百|liǎngbǎi|	百|deux cents	liǎngbǎi|▸ 百 [liǎngbǎi] deux cents	4884937aa591a5159720150c53f28d91.m4a	6
+百|yìbǎi|cent	百|cent	yìbǎi|▸ 百 [yìbǎi] cent	471ca00048f3037e99b628558fdce3fc.m4a	7
+它|tā|3e personne	它|il, elle (neutre)	tā|▸ 他 [tā] il, lui|▸ 她 [tā] elle|▸ 它 [tā] il, elle (neutre)	a9d2b00eace06e701519fe9966e7e16d.m4a	8
+七|qī|	七|	qī|▸ 七 [qī] 	b39037925ecff0181d5360e1583f745b.m4a	9
+院|yuàn|	院|cour, institution publique [en composition]	yuàn|▸ 院 [yuàn] cour, institution publique [en composition]	6b9e633d5ec46341035ebef4874f9d00.m4a	10
+叫|jiào|	叫|s'appeler	jiào|▸ 叫 [jiào] s'appeler	ea5a1b74a047bfbb5cd63ca59fb4f38b.m4a	11
+空|kōng|	空|vide	kōng|▸ 空 [kōng] vide	279566c402e5d1f4b39d3e975771e7c9.m4a	12
+空|tiānkōng|ciel	空|le ciel	tiānkōng|▸ 空 [tiānkōng] le ciel	84356362aa6182889a957c39a01432be.m4a	13
+空|yǒukòng|	空|avoir du temps libre	yǒukòng|▸ 空 [yǒukòng] avoir du temps libre	f3cb0363392562404d0a2d350e6a756d.m4a	14
+吗|ma|	吗|[interrogation]	ma|▸ 吗 [ma] [interrogation]	b74df323e3939b563635a2cba7a7afba.m4a	15
+谁|shuí|	谁|qui?	shuí|▸ 谁 [shuí] qui?	f4683264c09aad89f09c506ed9e61c8a.m4a	16
+岁|suì|année	岁|année (d'âge)	suì|▸ 岁 [suì] année (d'âge)	329293e01a09b3a6a24b1777bc1b6d8a.m4a	17
+妈|māma|	妈|maman	māma|▸ 妈 [māma] maman	ce01569dec2a343f0336937ddf54509b.m4a	18
+哪|nǎ|	哪|lequel?	nǎ|▸ 哪 [nǎ] lequel?	b3d3d7327c53b599d125480874f6373a.m4a	19
+饭|chīfàn|	饭|manger	chīfàn|▸ 饭 [chīfàn] manger	156e8d45af73e846ae0c7885a8a21fb9.m4a	20
+饭|fàn|	饭|repas	fàn|▸ 饭 [fàn] repas	50ea6e971b6c45a4f190ae53bcf693f7.m4a	21
+阳|tàiyáng|	阳|le soleil	tàiyáng|▸ 阳 [tàiyáng] le soleil	53c55bdc2c4495fdcd2c876d7f91c071.m4a	22
+双|shuāng|	双|double	shuāng|▸ 双 [shuāng] double	22c6133689e82d39e96e3512f6b8e4da.m4a	23
+哥|gēge|frère	哥|grand frère	gēge|▸ 哥 [gēge] grand frère	f02348eea1c0c83d0141fca173f861b9.m4a	24
+弟|dìdi|frère	弟|petit frère	dìdi|▸ 弟 [dìdi] petit frère	b25dd905b6f1dfdb2cda62c58d8dbf38.m4a	25
+弟|xiōngdì|frère	弟|frères	xiōngdì|▸ 弟 [xiōngdì] frères	1ba28498f147b37e18b018db0c0287af.m4a	26
+姐|jiějie|sœur	姐|grande sœur	jiějie|▸ 姐 [jiějie] grande sœur	b9891121a82c25d19a49343b936259d3.m4a	27
+亮|yuèliàng|	亮|la lune	yuèliàng|▸ 亮 [yuèliàng] la lune	988e407604bb4b1c0398b586637d5082.m4a	28
+爸|bàba|	爸|papa	bàba|<color gray>▸ 88 [bāba] bye-bye (chat) [translitt., plaisant.]</color>|▸ 爸 [bàba] papa	0aacfa8e0c411bd48d26428aed422e9a.m4a	29
+傻|shǎ|idiot	傻|idiot	shǎ|▸ 傻 [shǎ] idiot	3cc5bb273d394f4ee981ea996cfe4e55.m4a	30
+妹|jiěmèi|sœur	妹|sœurs	jiěmèi|▸ 妹 [jiěmèi] sœurs	0942ee580da13c60be3a2a34c648f7a4.m4a	31
+妹|mèimei|sœur	妹|petite sœur	mèimei|▸ 妹 [mèimei] petite sœur	51448c032997d41d9b055a19822dc0c2.m4a	32
+滚|gǔn|	滚|rouler [intransitif]	gǔn|▸ 滚 [gǔn] rouler [intransitif]	8197512e9e8aaecf7c2433aae030279e.m4a	33
+胎|shuāngbāotāi|	胎|jumeaux, jumelles	shuāngbāotāi|▸ 胎 [shuāngbāotāi] jumeaux, jumelles	2ba3aa7df54e2d80d71fded3c31ad137.m4a	34
+逼|shǎbī|idiot	逼|idiot, con	shǎbī|▸ 逼 [shǎbī] idiot, con	102f437b67b5c1db39816a7cd540f1b6.m4a	35
+零|líng|	零|zéro	líng|▸ 零 [líng] zéro	4aeb8f9c608a4e526056852208155974.m4a	36
