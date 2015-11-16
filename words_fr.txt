@@ -32,12 +32,12 @@
 谁	shuí|qui? & 你是谁？
 零	líng|zéro & 二零一五年
 一	yī|<pic-hand1.jpg>un, (clé 1) & 二零一五年
-二	èr|<pic-hand2.jpg>deux ordinal (clé 7) & 二零一五年
+二	èr|<pic-hand2.jpg>deux (ordinal) (clé 7) & deux & 二零一五年
 三	sān|<pic-hand3.jpg> & 十三
 四	sì|<pic-hand4.jpg> & 四十四
 五	wǔ|<pic-hand5.jpg> & 二零一五年
-六	liù|<pic-hand6.jpg>
-七	qī|<pic-hand7.jpg>
+六	liù|<pic-hand6.jpg> & 学校里有一百六十七个学生。
+七	qī|<pic-hand7.jpg> & 学校里有一百六十七个学生。
 八	bā|<pic-hand8.jpg>(clé 12)
 九	jiǔ|<pic-hand9.jpg> & 二零一五年十月十九日
 十	shí|<pic-hand10.jpg>(clé 24) & 二零一五年十月十九日
@@ -109,3 +109,36 @@
 生日	shēngrì|date de naissance & 我的生日是十月九日。
 院	yuàn|cour, institution publique [en composition]
 学院	xuéyuàn|institut (d'études)
+天	jīntiān|aujourd'hui & 我今天有空。
+天	míngtiān|demain & 明天你有空吗？
+空	yǒukòng|avoir du temps libre & 明天你有空吗？
+空	kōng|vide
+空	tiānkōng|le ciel & ciel & 天空中有一个太阳和一个月亮。
+阳	tàiyáng|le soleil & 天空中有一个太阳和一个月亮。
+亮	yuèliàng|la lune & 天空中有一个太阳和一个月亮。
+天	tiān|jour, ciel & ciel
+中	zhōng|milieu, centre, moyen & 天空中有一个太阳和一个月亮。
+和	hé(0)|et, avec & 我的妈妈有两个姐姐和四个弟弟。
+和	hé(1)|somme & 六加三的和是九。
+作	gōngzuò|travail & 你的工作是什么？
+饭	chīfàn|manger & 你吃饭了吗？
+饭	fàn|repas
+百	bǎi|cent & cent
+百	yìbǎi|cent & cent & 学校里有一百六十七个学生。
+百	liǎngbǎi|deux cents 
+两	liǎng|deux (numéral) & deux & 我的妈妈有两个姐姐和四个弟弟。
+了	le|(particule de l'accompli) & 你吃饭了吗？
+也	yě(0)|aussi (phrase positive) & 我也是。
+也	yě(1)|non plus (phrase négative) & 哥哥也没有吃饭。
+爸	bàba|papa & 她爸爸妈妈的工作是大学老师。
+妈	māma|maman & 我的妈妈有两个姐姐和四个弟弟。
+姐	jiějie|grande sœur & sœur & 我的妈妈有两个姐姐和四个弟弟。
+妹	mèimei|petite sœur & sœur & 他的双胞胎妹妹没有工作，她是大学生。
+哥	gēge|grand frère & frère & 哥哥也没有吃饭。
+弟	dìdi|petit frère & frère & 我的妈妈有两个姐姐和四个弟弟。
+弟	xiōngdì|frères & frère & 我没有兄弟姐妹。
+妹	jiěmèi|sœurs & sœur & 我没有兄弟姐妹。
+胎	shuāngbāotāi|jumeaux, jumelles & 他的双胞胎妹妹没有工作，她是大学生。
+双	shuāng|double
+逼	shǎbī|idiot, con & idiot
+傻	shǎ|idiot & idiot
