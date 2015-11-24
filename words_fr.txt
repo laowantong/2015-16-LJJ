@@ -125,7 +125,7 @@
 饭	fàn|repas
 百	bǎi|cent & cent
 一百	yìbǎi|cent & cent & 学校里有一百六十七个学生。
-两百	liǎngbǎi|deux cents 
+两百	liǎngbǎi|deux cents
 两	liǎng|deux (numéral) & deux & 我的妈妈有两个姐姐和四个弟弟。
 了	le|(particule de l'accompli) & 你吃饭了吗？
 也	yě(0)|aussi (phrase positive) & 我也是。
@@ -142,3 +142,26 @@
 双	shuāng|double
 傻逼	shǎbī|idiot, con & idiot
 傻	shǎ|idiot & idiot
+呢 ne|lorsqu'on souhaite poser la même question à plusieurs personnes & 你呢？
+法德学院 fǎdéxuéyuàn|institut franco-allemande
+今年  jīnnián|cette année
+明年 míngnián|l'année prochaine
+电 diàn|électricité
+话 huà|parole
+电话  diànhuà|téléphone
+号 hào|numéro
+码 mǎ|code, codage
+号码  hàomǎ|numéro
+电话号码 diànhuàhàomǎ|numéro de téléphone & 请问您的电话号码是什么？
+您 nín|vous
+星期  xīngqī|semaine & 今天星期几？
+星 xīng|étoile
+期 qī|période, échéance
+星期一 xīngqīyī|lundi & 今天是二零一五年十一月二十三日，星期一。
+星期二 xīngqīèr|mardi
+星期三 xīngqīsān|mercredi
+星期四 xīngqīsì|jeudi
+星期五 xīngqīwǔ|vendredi
+星期六 xīngqīliù|samedi
+星期日 xīngqīrì|dimanche
+牛逼  niúbī|très fort, ou NB

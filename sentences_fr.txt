@@ -61,3 +61,7 @@
 我没有兄弟姐妹。	Je n'ai ni frère ni sœur.
 他的双胞胎妹妹没有工作，她是大学生。	Sa (petite) sœur jumelle n'a pas de travail, elle est étudiante.
 我的妈妈有两个姐姐和四个弟弟。	Ma maman a deux grandes sœurs et quatre petits frères.
+你呢？ Et toi ?
+今天星期几？  Quel jour de la semaine sommes-nous ?
+今天是二零一五年十一月二十三日，星期一。  Nous sommes le 23 novembre 2015 aujourd'hui, lundi.
+请问您的电话号码是什么？  C'est quoi votre numéro de téléphone, s'il vous plaît ?
