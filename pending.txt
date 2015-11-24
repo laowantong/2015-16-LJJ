@@ -1,27 +1,80 @@
 e3b8a885af0e33844190df3b5b194275.m4a	88 (bāba)
+da645098fc15b788008d72dc3a64a102.m4a	NB (niúbī)
+471ca00048f3037e99b628558fdce3fc.m4a	一百 (yìbǎi)
 e32aa011e21578241fe16a8baf22852a.m4a	不用 (búyòng)
+cc7dcd7fac9fe8053229b1991a80ce5e.m4a	两 (liǎng)
+4884937aa591a5159720150c53f28d91.m4a	两百 (liǎngbǎi)
+0ac2a0b82d5088bfd5e979098d142ecc.m4a	中 (zhōng)
+a88aed83181848a47b15b654dd83679a.m4a	也 (yě)
+d9180594744f870aeefb086982e980bb.m4a	了 (le)
+ae43a25746570de80711427d8d733a64.m4a	今天 (jīntiān)
+51053a50b77a3ff5a1d1d86ef9877bb6.m4a	今年 (jīnnián)
 0c98d285db89031e631166531cee2d98.m4a	他们的 (tāmende)
 c03e0bb39977e9d930508c6437ed7662.m4a	他的 (tāde)
 30908d1f370126a076feed96b24f0d59.m4a	你们的 (nǐmende)
 780a17b3dbc7bea39e4e6fa842dcc36a.m4a	你的 (nǐde)
+3cc5bb273d394f4ee981ea996cfe4e55.m4a	傻 (shǎ)
+102f437b67b5c1db39816a7cd540f1b6.m4a	傻逼 (shǎbī)
+1ba28498f147b37e18b018db0c0287af.m4a	兄弟 (xiōngdì)
 2002d30172707007ddf84747f6b550fb.m4a	几个 (jǐgè)
 b91673cdf625f0c79bdd3076e83a70c2.m4a	十个月 (shígèyuè)
+22c6133689e82d39e96e3512f6b8e4da.m4a	双 (shuāng)
+2ba3aa7df54e2d80d71fded3c31ad137.m4a	双胞胎 (shuāngbāotāi)
+7125f87f85ba82fcc053aa24ef3f73f4.m4a	号 (hào)
+a32cdb2f454dc533f577fd0ff3b18935.m4a	号码 (hàomǎ)
+156e8d45af73e846ae0c7885a8a21fb9.m4a	吃饭 (chīfàn)
+d4f917633649a3c47c7ab917fa990146.m4a	呢 (ne)
+33fcd01258e6ba07ef405dc9e721f3a7.m4a	和 (hé)
+f02348eea1c0c83d0141fca173f861b9.m4a	哥哥 (gēge)
 c079019a3c3e03c0f5436e1c1a955d86.m4a	多大 (dūodà)
 3562975aecb33d1577bccc9c9966a368.m4a	大学生 (dàxuéshēng)
+612e3249bae2218bef1090b2d4f74ff6.m4a	天 (tiān)
+84356362aa6182889a957c39a01432be.m4a	天空 (tiānkōng)
+53c55bdc2c4495fdcd2c876d7f91c071.m4a	太阳 (tàiyáng)
 0c98d285db89031e631166531cee2d98.m4a	她们的 (tāmende)
 c03e0bb39977e9d930508c6437ed7662.m4a	她的 (tāde)
+ce01569dec2a343f0336937ddf54509b.m4a	妈妈 (māma)
+51448c032997d41d9b055a19822dc0c2.m4a	妹妹 (mèimei)
+0942ee580da13c60be3a2a34c648f7a4.m4a	姐妹 (jiěmèi)
+b9891121a82c25d19a49343b936259d3.m4a	姐姐 (jiějie)
 97a9e72639dc353f3b57880b1a1ba5cf.m4a	学生 (xuéshéng)
 0c98d285db89031e631166531cee2d98.m4a	它们的 (tāmende)
 c03e0bb39977e9d930508c6437ed7662.m4a	它的 (tāde)
 79639c5b2aaf99ccaaa64333c4d47041.m4a	岁数 (suìshù)
+24e6b7d3737a962d569854f322ad6f35.m4a	工作 (gōngzuò)
+b25dd905b6f1dfdb2cda62c58d8dbf38.m4a	弟弟 (dìdi)
 6983ef13ef61b4d8c610b40d32e23540.m4a	德国人 (déguórén)
 2bba110b4b1480d7f38a06f74d10587b.m4a	德文 (déwén)
+9582ff52c6fdadb2af112105eefeb038.m4a	您 (nín)
 068529f4e8dde808b9fc4ef8d6c46f5f.m4a	我们的 (wǒmende)
 2401f2b546c28f5234bce9723053bcba.m4a	我的 (wǒde)
+b274ff4796b1db3676ba9c98d03ecd1f.m4a	明天 (míngtiān)
+d013e915b1446445f5d23dca84488ff2.m4a	明年 (míngnián)
+77ce2a3fdcaea91f8fcdbc34926c6194.m4a	星 (xīng)
+f42d52021211c59b79deed39b59ee696.m4a	星期 (xīngqī)
+ff378e5d0e65de44173ad37b42974603.m4a	星期一 (xīngqīyī)
+d71e783b856ee7c1f4cd9f8a162ec689.m4a	星期三 (xīngqīsān)
+72db6b77fc6134879f7e746ac8c959ab.m4a	星期二 (xīngqīèr)
+4f4f41c6be3277748a959f32a7ae5b87.m4a	星期五 (xīngqīwǔ)
+f0d9eb77731763be6f9634cbb36fcfca.m4a	星期六 (xīngqīliù)
+56bbe13d1da40b82f41b2d01bc7751e7.m4a	星期四 (xīngqīsì)
+cfcb1db2c5ffe6a0abf138acb22d995f.m4a	星期日 (xīngqīrì)
+988e407604bb4b1c0398b586637d5082.m4a	月亮 (yuèliàng)
+f3cb0363392562404d0a2d350e6a756d.m4a	有空 (yǒukòng)
 8034484b7d0e7076f88497d04b83f1c6.m4a	法国人 (fǎguórén)
+3512160429e55574d75a9e4a9fcd8d47.m4a	法德学院 (fǎdéxuéyuàn)
 8735bc6f552092441e334ecf4fef2508.m4a	法文 (fǎwén)
+0aacfa8e0c411bd48d26428aed422e9a.m4a	爸爸 (bàba)
+28d482cad428ebd1e3358cc8bca5fe78.m4a	牛 (niú)
+da645098fc15b788008d72dc3a64a102.m4a	牛逼 (niúbī)
 c591d01e73e201538ea3c3cdc3dcf7b2.m4a	生日 (shēngrì)
+d9a6b1b4a3b70e036864e727b25abf16.m4a	电 (diàn)
+1e7a16ca5b002865d3b20499fb39c146.m4a	电话 (diànhuà)
+1389913e7973c1088f38e5c4bf072e5d.m4a	电话号码 (diànhuàhàomǎ)
+a45f3840e4543e0959442a3e8556e2e1.m4a	百 (bǎi)
+fd027368b966bab4263f367762d20cb8.m4a	码 (mǎ)
 279566c402e5d1f4b39d3e975771e7c9.m4a	空 (kōng)
+f5588fbafcd371ea69d0a1a559efac15.m4a	话 (huà)
 50ea6e971b6c45a4f190ae53bcf693f7.m4a	饭 (fàn)
 e467bc18f40616ea5db7482331a8b249.m4a	你好，我叫刘婧娇。
 bb0b6bc45375143826f72439e050743e.m4a	你好吗？
@@ -38,15 +91,14 @@ d5bddeef88cab3f667fa8ef9f59aba93.m4a	我们是你们的朋友。
 2cb8b11c20f4401e95ba564e85d0aa45.m4a	我是你的朋友。
 9d9749882aa9894387eff076de2d4940.m4a	我是学生。
 9fa462aceaf48a9c726553f64d673da4.m4a	我是一个法国学生。
-c1a9246f4943d474376eb96d52351044.m4a	你是哪国人？
-f453592fb30f90809e643d349f589883.m4a	我是德国人。
+c35ed894c22a1c55ba2cc017aeda0573.m4a	你是哪国人？我是德国人，你呢？
 e70ac0dec2366dc70408ec74e2da43ba.m4a	他们在一个法国朋友的家里。
 01054282c6906d46cc0583dc5f7722c6.m4a	我的学生们是德国人。
 f709d8391cb7ed7252dd6f5a577f34f5.m4a	我有一个家。
 c84f18ee42903c26af315a3f3b292f52.m4a	你们是我的学生。
 0e3ace0fd4c3a2990ead59c3d89960e9.m4a	我是你们的中文老师。
 56d6a8a2ab494c65a70329c875a719b7.m4a	你们是我的德文老师。
-ccdc071a0747570f5bfaf9d7ae11295f.m4a	我们在大学学中文。
+91562f44089f238cfe316d937c2b1bcc.m4a	我们在大学学法文。
 5cf11f0aeea4b88ff5c5425fe7a8a6c9.m4a	我是大学的学生。
 868e30f7b6c9bafca03416ed837960d6.m4a	你的家里有几个人？
 c9e9be21901e984191a5ef3c91fdd99f.m4a	法国是中国的朋友。
@@ -71,3 +123,10 @@ a3cf4b22a9a18034d716cb926d3e4078.m4a	我和朋友们在学校。
 124e040db6bff25f758d6e3d26594ea5.m4a	我没有兄弟姐妹。
 39794e975b850ea5bafefe7f5d8bb634.m4a	他的双胞胎妹妹没有工作，她是大学生。
 68fdd1c09763c027ae8ca473553262b8.m4a	我的妈妈有两个姐姐和四个弟弟。
+913660afabb08b1bd34093f7f0088700.m4a	你呢？
+8edc304656e055e83156737ee00d5b82.m4a	今天星期几？
+b685c0f28c4744a6dc4b54d2f3e1d6e7.m4a	今天是二零一五年十一月二十三号，星期一。
+6d3915545a915506f676d38c584d02e2.m4a	请问您的电话号码是什么？
+7d9a640ebdfac7fa1724734e5c30d6e3.m4a	明年是二零一六年。
+433f260b8904ba24d846843b300bd838.m4a	对不起，我的电话没电了。
+bf3e3e36439e2de5b970865e91a8a8db.m4a	今年我们在法德学院学中文。

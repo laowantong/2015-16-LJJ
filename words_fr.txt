@@ -4,7 +4,7 @@
 叫	jiào|s'appeler & 你好，我叫刘婧娇。
 大	dà|grand, (clé 37) & 我家不大。
 家	jiā|maison & 我家不大。
-人	rén|une personne
+人	rén|une personne & 你是哪国人？我是德国人，你呢？
 家人	jiārén|membres de la famille
 好	hǎo|(être) bien, bon, d'accord
 不	bù|ne pas (être) & 我家不大。
@@ -17,14 +17,14 @@
 再见	zàijiàn|au revoir & au revoir
 精彩	jīngcǎi|génial (livre, film, spectacle, etc.)
 对不起	duìbuqǐ(1)|excusez-moi (pour demander qqch) & s'il vous plaît
-对不起	duìbuqǐ(0)|je suis désolé
+对不起	duìbuqǐ(0)|je suis désolé & 对不起，我的电话没电了。
 对	duì(0)|juste, exact
 对	duì(1)|en face (en composition)
 请	qǐng(0)|inviter qqn à faire qqch, pourriez-vous..., pourrais-je... & s'il vous plaît & 请坐。
 请	qǐng(1)|inviter qqn & 你在家请谁？
 请问	qǐngwèn|puis-je vous demander? & s'il vous plaît & 请问，你叫什么名字？
 名字	míngzi|nom & 请问，你叫什么名字？
-哪	nǎ|lequel? & 你是哪国人？
+哪	nǎ|lequel? & 你是哪国人？我是德国人，你呢？
 哪里	nǎlǐ|où? & 请问，你家在哪里？
 问	wèn|demander, interroger & 请问，你家在哪里？
 在	zài|à, en, se trouver à & locatif & 请问，你家在哪里？
@@ -44,24 +44,24 @@
 年	nián|année & année & 二零一五年
 月	yuè|mois, lune & 二零一五年十月十九日
 十月	shíyuè|octobre & 二零一五年十月十九日
-日	rì|jour, soleil, (clé 72) & 二零一五年十月十九日
+日	rì|jour, soleil, (clé 72) & jour du mois & 二零一五年十月十九日
 滚	gǔn|rouler [intransitif] & 滚！
 
-没	méi|ne pas (avoir) & ne pas avoir
-没有	méiyǒu|ne pas avoir & ne pas avoir
-有	yǒu|avoir
-岁	suì|année (d'âge) & année
+没	méi|ne pas (avoir) & ne pas avoir & 对不起，我的电话没电了。
+没有	méiyǒu|ne pas avoir & ne pas avoir & 他的双胞胎妹妹没有工作，她是大学生。
+有	yǒu|avoir & 我的妈妈有两个姐姐和四个弟弟。
+岁	suì|année (d'âge) & année & 她二十五岁。
 
 个	gè|{spécificatif général} & 他们在一个法国朋友的家里。
 88	bāba|bye-bye (chat) [translitt., plaisant.] & au revoir
-吗	ma|[interrogation] & 你们在家里吗？
+吗	ma|[interrogation] & particule finale interrogative & 你们在家里吗？
 很	hěn|très (sens faible, pour qualifier un attribut de façon absolue) & 他们的岁数很大。
 
 它	tā|il, elle (neutre) & 3e personne
-她	tā|elle & 3e personne
-他	tā|il, lui & 3e personne
+她	tā|elle & 3e personne & 她二十五岁。
+他	tā|il, lui & 3e personne & 他的双胞胎妹妹没有工作，她是大学生。
 们	men|[suffixe du pluriel] & 我的学生们是德国人。
-我们	wǒmen|nous & 我们很好。
+我们	wǒmen|nous & 今年我们在法德学院学中文。
 你们	nǐmen|vous (pluriel) & 你们在家里吗？
 他们	tāmen|ils, eux & 3e personne pluriel & 他们在一个法国朋友的家里。
 它们	tāmen|ils, elles (neutre) & 3e personne pluriel
@@ -72,7 +72,7 @@
 的	de|[particule reliant déterminant et déterminé] & 他们在一个法国朋友的家里。
 我的	wǒde|mon, mes & 我的学生们是德国人。
 你的	nǐde|ton, tes & 我是你的朋友。
-他的	tāde|son, sa, ses (possesseur masculin)
+他的	tāde|son, sa, ses (possesseur masculin) & 他的双胞胎妹妹没有工作，她是大学生。
 她的	tāde|son, sa, ses (possesseur féminin)
 它的	tāde|son, sa, ses (possesseur neutre)
 我们的	wǒmende|notre, nos
@@ -84,23 +84,23 @@
 学生	xuéshéng|étudiant, élève & 我是一个法国学生。
 法国	Fǎguó|France & 我是一个法国学生。
 法国人	Fǎguórén|français
-国	guó|pays & état & 你是哪国人？
+国	guó|pays & état & 你是哪国人？我是德国人，你呢？
 国家	guójiā|pays, nation, état & état
-德国	Déguó|Allemagne & 我是德国人。
-德国人	Déguórén|allemand
-学	xué|apprendre, étudier, suffixe -ologie & 我们在大学学中文。
+德国	Déguó|Allemagne & 你是哪国人？我是德国人，你呢？
+德国人	Déguórén|un Allemand & 你是哪国人？我是德国人，你呢？
+学	xué|apprendre, étudier, suffixe -ologie & 我们在大学学法文。
 糟糕	zāogāo|zut! (litt. gâteau pourri)
 中国	zhōngguó|la Chine
 中国人	zhōngguórén|un Chinois
 用	yòng|utiliser
-不用	búyòng|inutile, ne pas utiliser
+不用	búyòng|inutile, ne pas utiliser & 不用谢。
 十个月	shígèyuè|dix mois
-中文	zhōngwén|la langue chinoise & 我们在大学学中文。
-文	wén|culture,langue & 我们在大学学中文。
+中文	zhōngwén|la langue chinoise & 今年我们在法德学院学中文。
+文	wén|culture,langue & 我们在大学学法文。
 法文	fǎwén|la langue française
 德文	déwén|la langue allemande
 老师	lǎoshī|professeur & 你们是我的德文老师。
-大学	dàxué|université & 我们在大学学中文。
+大学	dàxué|université & 我们在大学学法文。
 大学生	dàxuéshēng|étudiant(e)
 几个	jǐgè|combien (petit nombre) & combien? & 你的家里有几个人？
 于	yú|en (date) & 我出生于一九九五年六月二日。
@@ -142,26 +142,30 @@
 双	shuāng|double
 傻逼	shǎbī|idiot, con & idiot
 傻	shǎ|idiot & idiot
-呢 ne|lorsqu'on souhaite poser la même question à plusieurs personnes & 你呢？
-法德学院 fǎdéxuéyuàn|institut franco-allemande
-今年  jīnnián|cette année
-明年 míngnián|l'année prochaine
-电 diàn|électricité
-话 huà|parole
-电话  diànhuà|téléphone
-号 hào|numéro
-码 mǎ|code, codage
-号码  hàomǎ|numéro
-电话号码 diànhuàhàomǎ|numéro de téléphone & 请问您的电话号码是什么？
-您 nín|vous
-星期  xīngqī|semaine & 今天星期几？
-星 xīng|étoile
-期 qī|période, échéance
-星期一 xīngqīyī|lundi & 今天是二零一五年十一月二十三日，星期一。
-星期二 xīngqīèr|mardi
-星期三 xīngqīsān|mercredi
-星期四 xīngqīsì|jeudi
-星期五 xīngqīwǔ|vendredi
-星期六 xīngqīliù|samedi
-星期日 xīngqīrì|dimanche
-牛逼  niúbī|très fort, ou NB
+呢	ne|(particule finale pour retourner une question), dis-moi & particule finale interrogative & 你是哪国人？我是德国人，你呢？
+法德学院	fǎdéxuéyuàn|institut franco-allemand & 今年我们在法德学院学中文。
+今年	jīnnián|cette année & 今年我们在法德学院学中文。
+明年	míngnián|l'année prochaine & 明年是二零一六年。
+电	diàn|électricité & 对不起，我的电话没电了。
+话	huà|parole
+电话	diànhuà|téléphone & 对不起，我的电话没电了。
+号	hào(0)|jour du mois, suffixe ordinal & jour du mois & 今天是二零一五年十一月二十三号，星期一。
+号	hào(1)|numéro & numéro
+码	mǎ|code, codage
+号码	hàomǎ|numéro & numéro & 请问您的电话号码是什么？
+电话号码	diànhuàhàomǎ|numéro de téléphone & 请问您的电话号码是什么？
+您	nín|vous & 请问您的电话号码是什么？
+星期	xīngqī|semaine & 今天星期几？
+星	xīng|étoile
+期	qī|période, échéance
+星期一	xīngqīyī|lundi & 今天是二零一五年十一月二十三号，星期一。
+星期二	xīngqīèr|mardi
+星期三	xīngqīsān|mercredi
+星期四	xīngqīsì|jeudi
+星期五	xīngqīwǔ|vendredi
+星期六	xīngqīliù|samedi
+星期日	xīngqīrì|dimanche
+牛	niú|bœuf (clé 93)
+牛逼	niúbī|awesome (anglais), énorme, génial & NB
+NB	niúbī|[abr. internet], awesome (anglais), énorme, génial & NB
+
