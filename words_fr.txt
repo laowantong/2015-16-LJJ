@@ -106,7 +106,7 @@
 于	yú|en (date) & 我出生于一九九五年六月二日。
 同学	tóngxué|camarade de classe & 我们不是同学。
 出生	chūshēng|naître & 我出生于一九九五年六月二日。
-生日	shēngrì|date de naissance & 我的生日是十月九日。
+生日	shēngrì|anniversaire & 我的生日是十月九日。
 院	yuàn|cour, institution publique [en composition]
 学院	xuéyuàn|institut (d'études)
 今天	jīntiān|aujourd'hui & 我今天有空。
@@ -168,4 +168,27 @@
 牛	niú|bœuf (clé 93)
 牛逼	niúbī|awesome (anglais), énorme, génial & NB
 NB	niúbī|[abr. internet], awesome (anglais), énorme, génial & NB
-
+喝	hē|boire & 请喝咖啡。
+茶	chá|thé & 我的姐姐很喜欢喝英国茶。
+先生	xiānshēng|monsieur & 李先生不喝咖啡。
+行	xíng|aller (bien), marcher
+不行	bùxíng|ne pas aller (bien) & 那么，日本茶行不行？
+水	shuǐ|eau
+咖啡	kāfēi|café & 请喝咖啡。
+英国	yīngguó|Royaume-Uni & 我的姐姐很喜欢喝英国茶。
+日本	rìběn|Japon & 那么，日本茶行不行？
+日本人	rìběnrén|un Japonais
+爱	aì|aimer (d'amour), adorer, <em>love</em> & aimer
+喜欢	xǐhuān|aimer, <em>like</em> & aimer & 我的姐姐很喜欢喝英国茶。
+那么	nàme|dans ce cas, alors & 那么，日本茶行不行？
+英雄	yīngxióng|héros & 王先生是一个英雄。
+欧洲	ōuzhōu|Europe
+洲	zhōu|continent (en composition)
+欧元	ōuyuán|euro
+元	yuán|unité monétaire (absolt.: unité monétaire chinoise)
+圣诞节	shèngdànjié|fête de Noël & 圣诞节快乐。
+圣	shèng|saint
+节	jié|fête (calendaire)
+王	wáng|roi, (patronyme le plus courant en Chine) & 王先生是一个英雄。
+快乐	kuàilè|joyeux & 生日快乐。
+拼音	pīnyīn|alphabet phonétique pour la transcription du chinois

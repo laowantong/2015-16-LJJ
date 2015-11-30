@@ -37,7 +37,7 @@
 你们是我的德文老师。	Vous êtes mes professeurs d’allemand.
 我们在大学学法文。	Nous apprenons le français à l’université.
 我是大学的学生。	Je suis étudiant(e) de l’université.
-你的家里有几个人？	Il y a combien de personnes dans ta famille ?
+你的家里有几个人？	Il y a combien de personnes dans ta famille ?
 法国是中国的朋友。	La France est l’amie de la Chine.
 我的生日是十月九日。	Mon anniversaire est le 9 octobre.
 我出生于一九九五年六月二日。	Je suis né(e) le 2 juin 1995.
@@ -47,12 +47,12 @@
 闭嘴!	Ta gueule!
 我也是。	Moi aussi.
 我今天有空。	J'ai du temps libre aujourd'hui.
-明天你有空吗？	Est-ce que tu auras du temps libre demain ?
-你是大学生吗？	Est-ce que tu es étudiant(e) (d'université) ?
+明天你有空吗？	Est-ce que tu auras du temps libre demain ?
+你是大学生吗？	Est-ce que tu es étudiant(e) (d'université) ?
 学校里有一百六十七个学生。	L'école a cent soixante-sept étudiants.
 天空中有一个太阳和一个月亮。	Il y a un soleil et une lune au milieu du ciel.
-你的工作是什么？	C'est quoi ton travail ?
-你吃饭了吗？	Est-ce que tu as déjà (fini de) mangé ?
+你的工作是什么？	C'est quoi ton travail ?
+你吃饭了吗？	Est-ce que tu as déjà (fini de) mangé ?
 哥哥也没有吃饭。	Grand frère n'a pas mangé non plus.
 我和朋友们在学校。	Mes ami(e)s et moi sommes à l'école.
 六加三的和是九。	La somme de six plus trois est neuf.
@@ -60,10 +60,19 @@
 我没有兄弟姐妹。	Je n'ai ni frère ni sœur.
 他的双胞胎妹妹没有工作，她是大学生。	Sa (petite) sœur jumelle n'a pas de travail, elle est étudiante.
 我的妈妈有两个姐姐和四个弟弟。	Ma maman a deux grandes sœurs et quatre petits frères.
-你呢？	Et toi ?
-今天星期几？	Quel jour de la semaine sommes-nous ?
-今天是二零一五年十一月二十三号，星期一。	Nous sommes le 23 novembre 2015 aujourd'hui, lundi.
-请问您的电话号码是什么？	S'il vous plaît, quel est votre numéro de téléphone ?
-明年是二零一六年。	L'an prochain, [nous] sommes en 2016.
+你呢？	Et toi ?
+今天星期几？	Quel jour de la semaine sommes-nous ?
+今天是二零一五年十一月二十三号，星期一。	Nous sommes le lundi 23 novembre 2015.
+请问您的电话号码是什么？	S'il vous plaît, quel est votre numéro de téléphone ?
+明年是二零一六年。	L'an prochain, [nous] serons en 2016.
 对不起，我的电话没电了。	Désolé, mon téléphone n'a plus de batterie.
 今年我们在法德学院学中文。	Cette année, nous étudions le chinois à l'ISFATES.
+王先生是一个英雄。	M. Roi est un héros.
+圣诞节快乐。	Joyeux Noël!
+生日快乐。	Joyeux anniversaire!
+我的姐姐很喜欢喝英国茶。	Ma grande sœur aime beaucoup le thé anglais.
+请喝咖啡。	Prenez du café, s'il vous plaît.
+李先生不喝咖啡。	Monsieur Li ne boit pas de café.
+那么，日本茶行不行？	Alors, du thé japonais, ça irait ou pas ?
+他妈的！	Merde! (litt. sa mère!)
+我爱你。	Je t'aime.
