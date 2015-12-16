@@ -46,17 +46,14 @@
 十月	shíyuè|octobre & 二零一五年十月十九日
 日	rì|jour, soleil, (clé 72) & jour du mois & 二零一五年十月十九日
 滚	gǔn|rouler [intransitif] & 滚！
-
 没	méi|ne pas (avoir) & ne pas avoir & 对不起，我的电话没电了。
 没有	méiyǒu|ne pas avoir & ne pas avoir & 他的双胞胎妹妹没有工作，她是大学生。
 有	yǒu|avoir & 我的妈妈有两个姐姐和四个弟弟。
 岁	suì|année (d'âge) & année & 她二十五岁。
-
 个	gè|{spécificatif général} & 他们在一个法国朋友的家里。
 88	bāba|bye-bye (chat) [translitt., plaisant.] & au revoir
 吗	ma|[interrogation] & particule finale interrogative & 你们在家里吗？
 很	hěn|très (sens faible, pour qualifier un attribut de façon absolue) & 他们的岁数很大。
-
 它	tā|il, elle (neutre) & 3e personne
 她	tā|elle & 3e personne & 她二十五岁。
 他	tā|il, lui & 3e personne & 他的双胞胎妹妹没有工作，她是大学生。
@@ -192,3 +189,39 @@ NB	niúbī|[abr. internet], awesome (anglais), énorme, génial & NB
 王	wáng|roi, (patronyme le plus courant en Chine) & 王先生是一个英雄。
 快乐	kuàilè|joyeux & 生日快乐。
 拼音	pīnyīn|alphabet phonétique pour la transcription du chinois
+日本茶	rìběnchá|thé japonais
+他妈的	tāmāde|sa mère
+花	huā|fleur
+给	gěi(0)|donner & 卡洛琳给尼尔斯一个苹果。
+给	gěi(1)|pour & 我给你介绍一下(...)
+红色	hóngsè|couleur rouge & 这个苹果是红色的。
+白色	báisè|couleur blanc
+色	sè|couleur
+葡萄	pútáo|raisin & 那么，葡萄汁好吗？
+苹果	píngguǒ|pomme & 这个苹果是红色的。
+白葡萄酒	báipútáojiǔ|vin blanc aux raisins & 白葡萄酒我很喜欢。
+酒	jiǔ|vin, alcool & 白葡萄酒我很喜欢。
+一下	yíxià|un peu, une fois & 来我家坐一下喝杯咖啡吧?
+认识	rènshí|connaître & 认识您，我很高兴。
+介绍	jièshào|présenter & 我给你介绍一下(...)
+这	zhè|celui-ci, ceci & 这是我太太。
+太太	tàitai|femme & 这是我太太。
+高兴	gāoxìng|content & 认识您，我很高兴。
+杯	bēi|spécificatif pour une boisson
+会	huì(0)|être capable de, pouvoir
+会	huì(1)|savoir avoir appris & 她会英文。
+会	huì(2)|probable & 他会去学校。
+不会	búhuì(0)|incapable & 我不会喝酒。
+不会	búhuì(1)|ne pas savoir
+一杯咖啡	yìbēikāfēi|un café & 来我家坐一下喝杯咖啡吧?
+来	lái|venir & 来我家坐一下喝杯咖啡吧?
+去	qù|aller & 他会去学校。
+都	dōu|tout & 我们都是学中文的法国学生。
+都	dū|grande viille & 巴黎是法国的首都。
+首都	shǒudū|la capitale & 巴黎是法国的首都。
+巴黎	bālí|Paris & 巴黎是法国的首都。
+英文	yīngwén|langue anglaise & 她会英文。
+汁	zhī|jus
+苹果汁	píngguǒzhī|jus de pomme & 喝一杯苹果汁吧？
+死	sǐ|mourir, mort & 去死!
+吧	ba|(particule finale) pour une suggestion ou une supposition & 明天来我家吃饭吧？

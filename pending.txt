@@ -1,27 +1,31 @@
 e3b8a885af0e33844190df3b5b194275.m4a	88 (bāba)
 da645098fc15b788008d72dc3a64a102.m4a	NB (niúbī)
+fd02cec503156b0b22f35712738b01c5.m4a	一下 (yíxià)
+40ca437f0df965fd41875525ad3c1fa9.m4a	一杯咖啡 (yìbēikāfēi)
 471ca00048f3037e99b628558fdce3fc.m4a	一百 (yìbǎi)
+2817e3a34a242cded1357a009739eb81.m4a	不会 (búhuì)
 e32aa011e21578241fe16a8baf22852a.m4a	不用 (búyòng)
-f5578b533403e6a5cfd762221801e8bf.m4a	不行 (bùxíng)
 4884937aa591a5159720150c53f28d91.m4a	两百 (liǎngbǎi)
+46f28be3a6dbe33887a6d73c95695819.m4a	介绍 (jièshào)
 0c98d285db89031e631166531cee2d98.m4a	他们的 (tāmende)
+c03d306e504463fa146e832e5fa213c6.m4a	他妈的 (tāmāde)
 c03e0bb39977e9d930508c6437ed7662.m4a	他的 (tāde)
+7e11029be816a0c471523b60c0a9e4f7.m4a	会 (huì)
 30908d1f370126a076feed96b24f0d59.m4a	你们的 (nǐmende)
 780a17b3dbc7bea39e4e6fa842dcc36a.m4a	你的 (nǐde)
 102f437b67b5c1db39816a7cd540f1b6.m4a	傻逼 (shǎbī)
-4da867c27f4daf77fa8a4ba87928b717.m4a	元 (yuán)
 fa7eee9968d6b00d23104234bdb7fe6a.m4a	先生 (xiānshēng)
 2002d30172707007ddf84747f6b550fb.m4a	几个 (jǐgè)
 b91673cdf625f0c79bdd3076e83a70c2.m4a	十个月 (shígèyuè)
+73b415b5ddd53a24a5e553bb45c8e97e.m4a	去 (qù)
 2ba3aa7df54e2d80d71fded3c31ad137.m4a	双胞胎 (shuāngbāotāi)
-27674d00fbe3fdb53d16bdf446feda6b.m4a	咖啡 (kāfēi)
+07159c47ee1b19ae4fb9c40d480856c4.m4a	吧 (ba)
 45eab7da337580ee56bc7b8b39bcc101.m4a	喜欢 (xǐhuān)
-8757116621f0a14886a4370a5d613a55.m4a	喝 (hē)
-f9ba3b3d331cf2e565342415b6803241.m4a	圣 (shèng)
 f2d027e5c983dc77968ecda6668046d2.m4a	圣诞节 (shèngdànjié)
 c079019a3c3e03c0f5436e1c1a955d86.m4a	多大 (dūodà)
 3562975aecb33d1577bccc9c9966a368.m4a	大学生 (dàxuéshēng)
 84356362aa6182889a957c39a01432be.m4a	天空 (tiānkōng)
+d03e9527885b8aef5808a791c8b34f6f.m4a	太太 (tàitai)
 0c98d285db89031e631166531cee2d98.m4a	她们的 (tāmende)
 c03e0bb39977e9d930508c6437ed7662.m4a	她的 (tāde)
 0942ee580da13c60be3a2a34c648f7a4.m4a	姐妹 (jiěmèi)
@@ -29,14 +33,13 @@ c03e0bb39977e9d930508c6437ed7662.m4a	她的 (tāde)
 0c98d285db89031e631166531cee2d98.m4a	它们的 (tāmende)
 c03e0bb39977e9d930508c6437ed7662.m4a	它的 (tāde)
 79639c5b2aaf99ccaaa64333c4d47041.m4a	岁数 (suìshù)
+5b804c62c32b3a5a06ff5144560915c0.m4a	巴黎 (bālí)
 6983ef13ef61b4d8c610b40d32e23540.m4a	德国人 (déguórén)
 2bba110b4b1480d7f38a06f74d10587b.m4a	德文 (déwén)
-a30f7d63c6dd40e0fe84993556ee447b.m4a	快乐 (kuàilè)
 068529f4e8dde808b9fc4ef8d6c46f5f.m4a	我们的 (wǒmende)
 2401f2b546c28f5234bce9723053bcba.m4a	我的 (wǒde)
-2bfc32c8acad96b6c5bd35f7ac39b2e3.m4a	拼音 (pīnyīn)
-14f4c13da2f46a2604a90456b9f16944.m4a	日本 (rìběn)
 0925e34893697aacfc3caddf6d625efa.m4a	日本人 (rìběnrén)
+f03d267362c1aaabc2048f0d51dd663f.m4a	日本茶 (rìběnchá)
 f42d52021211c59b79deed39b59ee696.m4a	星期 (xīngqī)
 ff378e5d0e65de44173ad37b42974603.m4a	星期一 (xīngqīyī)
 d71e783b856ee7c1f4cd9f8a162ec689.m4a	星期三 (xīngqīsān)
@@ -46,23 +49,36 @@ f0d9eb77731763be6f9634cbb36fcfca.m4a	星期六 (xīngqīliù)
 56bbe13d1da40b82f41b2d01bc7751e7.m4a	星期四 (xīngqīsì)
 cfcb1db2c5ffe6a0abf138acb22d995f.m4a	星期日 (xīngqīrì)
 988e407604bb4b1c0398b586637d5082.m4a	月亮 (yuèliàng)
+28dbeb47afe872a880d3d291ad234ecb.m4a	来 (lái)
+c31a6db9f361d1554d7c12f14a43164f.m4a	杯 (bēi)
 99dac432beed0686a2964fcc3bb6ce52.m4a	欧元 (ōuyuán)
 cfacbbc9ddb72b771d38eb8da7a02bef.m4a	欧洲 (ōuzhōu)
-2beb6b8dd71478e3f234d6d0e1ef77d7.m4a	水 (shuǐ)
+acce5cbc53d609238a157212fbac84a0.m4a	死 (sǐ)
+ba1623ab3df6eba14d319bc7f7d20e94.m4a	汁 (zhī)
 8034484b7d0e7076f88497d04b83f1c6.m4a	法国人 (fǎguórén)
 3512160429e55574d75a9e4a9fcd8d47.m4a	法德学院 (fǎdéxuéyuàn)
 8735bc6f552092441e334ecf4fef2508.m4a	法文 (fǎwén)
-ab965c1fd4bf28b88e41ca838a707bc6.m4a	洲 (zhōu)
-65b89875adcf5291330ae5772ced6a52.m4a	爱 (aì)
 da645098fc15b788008d72dc3a64a102.m4a	牛逼 (niúbī)
-5bfaeb8d055b3ebe4b12e482efcf32a4.m4a	王 (wáng)
 c591d01e73e201538ea3c3cdc3dcf7b2.m4a	生日 (shēngrì)
 1389913e7973c1088f38e5c4bf072e5d.m4a	电话号码 (diànhuàhàomǎ)
+bdd02ed0d778343cb51c0fdd6d4239f1.m4a	白色 (báisè)
+8a863289a851509623d6360ff7f8f0eb.m4a	白葡萄酒 (báipútáojiǔ)
 279566c402e5d1f4b39d3e975771e7c9.m4a	空 (kōng)
-2d78f50331417b4daca11cc92858a79f.m4a	节 (jié)
+c00a485e792e5ce32c3afa0dca727030.m4a	红色 (hóngsè)
+a930ba5799d9329d60524dcbf049a673.m4a	给 (gěi)
+4b1c33a164254a0853ef439b4833dc71.m4a	色 (sè)
+a6eb4bf8007334e967f0cb8148526355.m4a	花 (huā)
 c2458ad85d4b54eb9a37b556b9d624b9.m4a	英国 (yīngguó)
-ba4ec3f8c04943ffd2282a3c6c4f3fc6.m4a	英雄 (yīngxióng)
-778e0478063daace21c68f7e92c46439.m4a	茶 (chá)
+c9f586075423da90627f482041f4b687.m4a	英文 (yīngwén)
+d315f23e5290e5efe83c9caf2cfa238a.m4a	苹果 (píngguǒ)
+58591664707af7d04240bea376dff344.m4a	苹果汁 (píngguǒzhī)
+e4285ee6b8dd321f7b0d4dc38322d150.m4a	葡萄 (pútáo)
+74d2f741be95fa47da52474bdc95dc88.m4a	认识 (rènshí)
+166f08b66da0d86b4cb604bf978bcbcb.m4a	这 (zhè)
+e15f2e2e18a825d218e02ee90a3ae44e.m4a	都 (dōu)
+11e48b7326a7ed5e7a558ad485b6cdac.m4a	都 (dū)
+c44eace3f0bba87675c28ab66682d4b0.m4a	首都 (shǒudū)
+dd18dff235b27a40b61060542904822a.m4a	高兴 (gāoxìng)
 e467bc18f40616ea5db7482331a8b249.m4a	你好，我叫刘婧娇。
 bb0b6bc45375143826f72439e050743e.m4a	你好吗？
 4f83dce156e3b889787f0798ace6274b.m4a	你们在家里吗？
@@ -125,3 +141,21 @@ eed18e25334564ebe1e8ee140f285a8c.m4a	李先生不喝咖啡。
 04b3be78230f6f8c73260c920038d35d.m4a	那么，日本茶行不行？
 4a31415a1a31e6b8ffa6e58bd6e8df78.m4a	他妈的！
 0a9b193984b5d5034adc305593bbf643.m4a	我爱你。
+ace1e38594a3186a273d38e0a09c0597.m4a	我给你介绍一下(...)
+83e6449ef295c94392135519064f2300.m4a	这是我太太。
+d8069159831512d17b47d338ac4e4d9c.m4a	卡洛琳给尼尔斯一个苹果。
+ef151750bd1f583f1025c8fa3cbb5c6a.m4a	认识您，我很高兴。
+757b60565d9cb447eb5bf5bfa9bcba3a.m4a	白葡萄酒我很喜欢。
+18c560f6d2dc75164203566f3732793f.m4a	喝一杯苹果汁吧？
+1913a8b0f7791a35c5a5bce17d3888bb.m4a	那么，葡萄汁好吗？
+ddf6a80b64888337d4242e77adec747a.m4a	我们都是学中文的法国学生。
+564d8cb6618446de87c4823f0ee5f6c6.m4a	她会英文。
+c6e2fb35ebd8196b650ccaf059973939.m4a	这个苹果是红色的。
+a7acf5d830c397c1a83f52be3e8a2d06.m4a	来我家坐一下喝杯咖啡吧?
+18c2cd3f923b9ca29a87d24ccf86db4e.m4a	巴黎是法国的首都。
+0f758e50745a55d7f8cb3d7c13fc7832.m4a	我去大学。
+22ac0dea09af1a834752f339a187bfa0.m4a	明天来我家吃饭吧？
+df3fbda125da69a6acc4a4f7592aaf5c.m4a	他会去学校。
+4f08b8fe78aa593aeec390b4b51786f6.m4a	去死!
+24c623bf5fa0dd0b26980695e19feab3.m4a	我的家人们都很好。
+6a1de804623e49b0a38c7cd7437a43c4.m4a	我不会喝酒。
