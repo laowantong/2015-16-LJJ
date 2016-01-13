@@ -82,7 +82,7 @@
 法国	Fǎguó|France & 我是一个法国学生。
 法国人	Fǎguórén|français
 国	guó|pays & état & 你是哪国人？我是德国人，你呢？
-国家	guójiā|pays, nation, état & état
+国家	guójiā|pays, nation, état & état & 欧洲有很多国家。
 德国	Déguó|Allemagne & 你是哪国人？我是德国人，你呢？
 德国人	Déguórén|un Allemand & 你是哪国人？我是德国人，你呢？
 学	xué|apprendre, étudier, suffixe -ologie & 我们在大学学法文。
@@ -170,8 +170,8 @@ NB	niúbī|[abr. internet], awesome (anglais), énorme, génial & NB
 先生	xiānshēng|monsieur & 李先生不喝咖啡。
 行	xíng|aller (bien), marcher
 不行	bùxíng|ne pas aller (bien) & 那么，日本茶行不行？
-水	shuǐ|eau
-咖啡	kāfēi|café & 请喝咖啡。
+水	shuǐ|eau & 我想喝一杯水。
+咖啡	kāfēi|café (boisson) & 请喝咖啡。
 英国	yīngguó|Royaume-Uni & 我的姐姐很喜欢喝英国茶。
 日本	rìběn|Japon & 那么，日本茶行不行？
 日本人	rìběnrén|un Japonais
@@ -179,49 +179,67 @@ NB	niúbī|[abr. internet], awesome (anglais), énorme, génial & NB
 喜欢	xǐhuān|aimer, <em>like</em> & aimer & 我的姐姐很喜欢喝英国茶。
 那么	nàme|dans ce cas, alors & 那么，日本茶行不行？
 英雄	yīngxióng|héros & 王先生是一个英雄。
-欧洲	ōuzhōu|Europe
+欧洲	ōuzhōu|Europe & 欧洲有很多国家。
 洲	zhōu|continent (en composition)
 欧元	ōuyuán|euro
-元	yuán|unité monétaire (absolt.: unité monétaire chinoise)
 圣诞节	shèngdànjié|fête de Noël & 圣诞节快乐。
 圣	shèng|saint
 节	jié|fête (calendaire)
 王	wáng|roi, (patronyme le plus courant en Chine) & 王先生是一个英雄。
 快乐	kuàilè|joyeux & 生日快乐。
 拼音	pīnyīn|alphabet phonétique pour la transcription du chinois
-日本茶	rìběnchá|thé japonais
+日本茶	rìběnchá|thé japonais & 那么，日本茶行不行？
 他妈的	tāmāde|sa mère
 花	huā|fleur
 给	gěi(0)|donner & 卡洛琳给尼尔斯一个苹果。
-给	gěi(1)|pour & 我给你介绍一下(...)
-红色	hóngsè|couleur rouge & 这个苹果是红色的。
-白色	báisè|couleur blanc
-色	sè|couleur
+给	gěi(1)|pour, indique le destinataire d'une action & 我给你介绍一下我的女朋友。
+红	hóng|rouge & 这杯红酒五块六毛钱。
+白	bái|blanc & 白葡萄酒我很喜欢。
+色	sè|couleur, de couleur (rouge, blanche, etc.) & 这个苹果是红色的。
 葡萄	pútáo|raisin & 那么，葡萄汁好吗？
 苹果	píngguǒ|pomme & 这个苹果是红色的。
-白葡萄酒	báipútáojiǔ|vin blanc aux raisins & 白葡萄酒我很喜欢。
-酒	jiǔ|vin, alcool & 白葡萄酒我很喜欢。
+白葡萄酒	bái pútáojiǔ|vin blanc & 白葡萄酒我很喜欢。
+酒	jiǔ|alcool & 白葡萄酒我很喜欢。
 一下	yíxià|un peu, une fois & 来我家坐一下喝杯咖啡吧?
 认识	rènshí|connaître & 认识您，我很高兴。
-介绍	jièshào|présenter & 我给你介绍一下(...)
+介绍	jièshào|présenter & 我给你介绍一下我的女朋友。
 这	zhè|celui-ci, ceci & 这是我太太。
 太太	tàitai|femme & 这是我太太。
 高兴	gāoxìng|content & 认识您，我很高兴。
-杯	bēi|spécificatif pour une boisson
+杯	bēi|verre, {boisson} & 来我家坐一下喝杯咖啡吧?
 会	huì(0)|être capable de, pouvoir
-会	huì(1)|savoir avoir appris & 她会英文。
-会	huì(2)|probable & 他会去学校。
-不会	búhuì(0)|incapable & 我不会喝酒。
-不会	búhuì(1)|ne pas savoir
-一杯咖啡	yìbēikāfēi|un café & 来我家坐一下喝杯咖啡吧?
+会	huì(1)|savoir, avoir appris & 她会英文。
+会	huì(2)|probablement, (préfixe verbal indiquant la probabilité) & 他今天晚上会来。
+不会	búhuì|être incapable de & 我不会喝酒。
 来	lái|venir & 来我家坐一下喝杯咖啡吧?
-去	qù|aller & 他会去学校。
+去	qù|aller & 我去大学。
 都	dōu|tout & 我们都是学中文的法国学生。
-都	dū|grande viille & 巴黎是法国的首都。
+都	dū|grande ville & 巴黎是法国的首都。
 首都	shǒudū|la capitale & 巴黎是法国的首都。
 巴黎	bālí|Paris & 巴黎是法国的首都。
 英文	yīngwén|langue anglaise & 她会英文。
-汁	zhī|jus
-苹果汁	píngguǒzhī|jus de pomme & 喝一杯苹果汁吧？
-死	sǐ|mourir, mort & 去死!
+汁	zhī|jus & 那么，葡萄汁好吗？
+苹果汁	píngguǒ zhī|jus de pomme & 喝一杯苹果汁吧？
+死	sǐ|mourir, mort & 去死！
 吧	ba|(particule finale) pour une suggestion ou une supposition & 明天来我家吃饭吧？
+点	diǎn|point, {heure} (éq. <i>o'clock</i>) & 两点钟
+钟	zhōng|horloge, suffixe horaire (après 点 et 分) & 两点钟
+现在	xiànzài|maintenant & 现在几点钟？
+半	bàn|demi & 六点半
+一刻	yíkè|un quart & 五点一刻
+分	fēn|minute, centime & 现在下午三点零五分。
+毛	máo|dix centimes & 这杯红酒五块六毛钱。
+元	yuán|unité monétaire (absolt.: unité monétaire chinoise) & argent
+块	kuài|marqueur de l'unité monétaire dans une somme d'argent & argent & 这杯红酒五块六毛钱。
+钱	qián|argent & argent & 这个多少钱？
+上午	shàngwǔ|matinée
+中午	zhōngwǔ|midi
+下午	xiàwǔ|après-midi & 现在下午三点零五分。
+晚上	wǎnshàng|soir & 他今天晚上会来。
+这个	zhègè|ceci & 这个多少钱？
+那个	nàgè|cela & 那个是什么？
+多	duō|beaucoup & 欧洲有很多国家。
+少	shǎo|peu & 我很少在家。
+多少	duōshǎo|combien ? & 这个多少钱？
+想	xiǎng|vouloir faire, penser, réfléchir & 我想喝一杯水。
+新年	xīnnián|nouvel an & 新年快乐！

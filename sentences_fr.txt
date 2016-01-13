@@ -44,7 +44,7 @@
 我们不是同学。	Nous ne sommes pas camarades de classe.
 老师好。	Bonjour, professeur.
 不用谢。	De rien (litt. inutile de remercier).
-闭嘴!	Ta gueule!
+闭嘴！	Ta gueule!
 我也是。	Moi aussi.
 我今天有空。	J'ai du temps libre aujourd'hui.
 明天你有空吗？	Est-ce que tu auras du temps libre demain ?
@@ -76,21 +76,39 @@
 那么，日本茶行不行？	Alors, du thé japonais, ça irait ou pas ?
 他妈的！	Merde! (litt. sa mère!)
 我爱你。	Je t'aime.
-我给你介绍一下(...)	Je présente un peu pour toi(...)
-这是我太太。	Ceci est ma femme.
+我给你介绍一下我的女朋友。	Permets-moi de te présenter ma copine.
+这是我太太。	C'est ma femme.
 卡洛琳给尼尔斯一个苹果。	Caroline donne une pomme à Niels.
 认识您，我很高兴。	Je suis très contente de vous connaître.
 白葡萄酒我很喜欢。	J'aime bien le vin blanc.
-喝一杯苹果汁吧？	Est-ce que (vous voulez) du jus de pomme ?
-那么，葡萄汁好吗？	Dans ce cas, jus de raisins ça ira ?
-我们都是学中文的法国学生。	Nous sommes tous étudiants français qui aprennent le chinois.
-她会英文。	Elle sait (parler) anglais.
-这个苹果是红色的。	Ce pomme est rouge.
-来我家坐一下喝杯咖啡吧?	Est-ce que (tu voudras) venir chez moi boire un café ? (litt. s'assesoir un peu)
+喝一杯苹果汁吧？	Et (boire) un verre de jus de pomme ?
+那么，葡萄汁好吗？	Dans ce cas, du jus de raisin ?
+我们都是学中文的法国学生。	Nous sommes tous des étudiants français qui étudient le chinois.
+她会英文。	Elle connaît l'anglais.
+这个苹果是红色的。	Cette pomme est rouge.
+来我家坐一下喝杯咖啡吧?	Tu viens chez moi [litt. t'asseoir un peu pour] boire un café ?
 巴黎是法国的首都。	Paris est la capitale de la France.
-我去大学。	Je vais à l'université.
-明天来我家吃饭吧？	Est-ce que (tu voudras) venir manger chez moi demain ?
-他会去学校。	Il devrait venir à l'école.
-去死!	Vas mourir !
-我的家人们都很好。	Tous les membres de ma famille va bien.
-我不会喝酒。	Je ne peux pas boire d'alcool.
+我去大学。	Je vais à la fac (action, et non état).
+明天来我家吃饭吧？	Tu viens manger chez moi demain ?
+去死！	Crève !
+我的家人们都很好。	Toute ma famille va bien.
+我不会喝酒。	Je ne bois pas [d'alcool].
+现在几点钟？	Quelle heure est-il ?
+现在下午三点零五分。	Il est 15h05.
+新年快乐！	Bonne année !
+晚上好。	Bonsoir.
+这个多少钱？	Ceci coûte combien ?
+一杯葡萄汁多少钱？	Un verre de jus de raisin, c'est combien ?
+那个是什么？	C'est quoi ça ?
+脑残	débile mental (litt., handicapé du cerveau)
+两点钟	liǎng diǎnzhōng|2h00 (horaire)
+四点十五分	4h15
+五点一刻	cinq heures et quart
+六点半	six heures et demie
+七点四十五分	7h45
+八点差十分	huit heures moins dix
+欧洲有很多国家。	Il y a beaucoup de pays en Europe.
+我很少在家。	Je suis rarement à la maison.
+这杯红酒五块六毛钱。	Ce vin rouge, 5,60 yuans (le verre).
+他今天晚上会来。	Il va certainement venir ce soir.
+我想喝一杯水。	Je voudrais boire un verre d'eau.
